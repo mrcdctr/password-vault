@@ -26,3 +26,5 @@ Make sure you have Python 3 installed. You’ll also need the following Python l
 You can install the required libraries using pip:
 ```bash
 pip install pyperclip cryptography
+inloop())
+
